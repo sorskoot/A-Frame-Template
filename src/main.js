@@ -1,0 +1,1 @@
+import './components/visible-in-vr.component';
